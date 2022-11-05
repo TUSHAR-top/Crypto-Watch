@@ -1,4 +1,4 @@
-#TusCoins-Components
+TusCoins-Components
 
 ![trade](https://user-images.githubusercontent.com/114443660/200114317-9fa65258-9d83-43df-93ce-3a726f82602e.png)
 
